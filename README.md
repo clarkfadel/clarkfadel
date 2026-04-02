@@ -4,7 +4,7 @@
 
 **Graduating CS Student** · Mapua University · Philippines
 
-*UI/UX designer and full-stack developer who builds real things, not just assignments.*
+*UI/UX designer and website/mobile application developer currently studying at Mapúa University.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-clarkfadel.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://clarkfadel.com)
 [![Email](https://img.shields.io/badge/Email-clarkfadel02%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:clarkfadel02@gmail.com)
@@ -17,9 +17,9 @@
 
 ## About Me
 
-I'm a Computer Science student at Mapua University, graduating soon. Outside of coursework, I've been spending most of my time building and shipping actual products — a live mobile app on Google Play and a full-stack web platform built entirely from scratch.
+Hi! I'm a 22-year-old UI/UX designer and website/mobile application developer currently studying at Mapúa University. I strive to create digital experiences that are not only functional but also engaging and unique. I specialize in building website and mobile applications that align with a brand's identity, ensuring each project reflects its values and vision.
 
-I focus on the full picture: design, frontend, backend, and deployment. Most of what I've built was done solo, which means I've had to figure out every layer myself.
+In addition to design and development, I also have experience in digital marketing, allowing me to approach projects from both a technical and strategic perspective. I love exploring new ideas and finding innovative solutions that elevate user experiences.
 
 ---
 
