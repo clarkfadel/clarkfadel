@@ -26,6 +26,18 @@ Offline-first inventory & POS mobile app built for small Filipino businesses. Wo
 Full-stack restaurant management platform with four distinct portals: customer ordering, cashier POS, admin dashboard, and delivery tracking.
 `Next.js` `Supabase` `PostgreSQL` `Prisma`
 
+<details>
+<summary>Demo Access</summary>
+
+| Role | URL | Credentials |
+|------|-----|-------------|
+| Customer | [/auth](https://palbites.clarkfadel.com/auth) | Register any account |
+| Admin | [/admin/login](https://palbites.clarkfadel.com/admin/login) | `admin@palbites.com` / `admin` |
+| Cashier POS | [/cashier/login](https://palbites.clarkfadel.com/cashier/login) | PIN `2222` (Maria) or `1234` (Admin) |
+| Delivery Rider | [/delivery/login](https://palbites.clarkfadel.com/delivery/login) | `carlos@palbites.com` / `rider123` |
+
+</details>
+
 ---
 
 ## What I Bring
