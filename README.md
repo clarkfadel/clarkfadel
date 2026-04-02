@@ -2,9 +2,9 @@
 
 # Clark Fadel
 
-**UI/UX Designer & Full-Stack Developer** · Philippines
+**Graduating CS Student** · Mapua University · Philippines
 
-*I build production-grade web and mobile products — from design system to deployment.*
+*UI/UX designer and full-stack developer who builds real things, not just assignments.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-clarkfadel.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://clarkfadel.com)
 [![Email](https://img.shields.io/badge/Email-clarkfadel02%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:clarkfadel02@gmail.com)
@@ -12,15 +12,22 @@
 
 </div>
 
+
+---
+
+## About Me
+
+I'm a Computer Science student at Mapua University, graduating soon. Outside of coursework, I've been spending most of my time building and shipping actual products — a live mobile app on Google Play and a full-stack web platform built entirely from scratch.
+
+I focus on the full picture: design, frontend, backend, and deployment. Most of what I've built was done solo, which means I've had to figure out every layer myself.
+
 ---
 
 ## Featured Projects
 
-
 **[Inventrixs](https://play.google.com/store/apps/details?id=com.inventrixs.app)** `Live on Google Play`
 Offline-first inventory & POS mobile app built for small Filipino businesses. Works without internet, syncs when connected.
 `React Native` `Expo` `SQLite` `TypeScript`
-
 
 **[Palbites](https://palbites.clarkfadel.com)** `Demo`
 Full-stack restaurant management platform with four distinct portals: customer ordering, cashier POS, admin dashboard, and delivery tracking.
@@ -37,18 +44,6 @@ Full-stack restaurant management platform with four distinct portals: customer o
 | Delivery Rider | [/delivery/login](https://palbites.clarkfadel.com/delivery/login) | `carlos@palbites.com` / `rider123` |
 
 </details>
-
----
-
-## What I Bring
-
-**Full-cycle ownership** — I take a product from Figma mockup to deployed, working software. Design, frontend, backend, database, and deployment are all in scope.
-
-**Cross-platform by default** — I build for web with React/Next.js and mobile with React Native/Expo. Not a separate skill — same project, same codebase thinking.
-
-**Grounded in CS fundamentals** — Graduating Computer Science student at Mapua University, with coursework that backs up the hands-on work I ship.
-
-**I actually ship** — Inventrixs is live on Google Play with real users. Palbites is a full production-architecture demo covering four distinct portals built solo.
 
 ---
 
@@ -78,8 +73,8 @@ Full-stack restaurant management platform with four distinct portals: customer o
 
 ## Open To
 
-- Full-time roles (remote or on-site)
-- Contract & freelance projects
-- Product collaborations
+- Internships & entry-level roles (remote or on-site)
+- Freelance & contract projects
+- Collaborations on real products
 
 **Best way to reach me:** [Schedule a 30-minute call](https://calendly.com/clarkfadel/30min) or email [clarkfadel02@gmail.com](mailto:clarkfadel02@gmail.com)
