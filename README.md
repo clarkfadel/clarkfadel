@@ -14,15 +14,15 @@
 
 ---
 
-## Shipped Products
+## Featured Projects
 
-> These are live, real-user applications — not demos.
 
 **[Inventrixs](https://play.google.com/store/apps/details?id=com.inventrixs.app)** `Live on Google Play`
 Offline-first inventory & POS mobile app built for small Filipino businesses. Works without internet, syncs when connected.
 `React Native` `Expo` `SQLite` `TypeScript`
 
-**[Palbites](https://palbites.clarkfadel.com)** `Live`
+
+**[Palbites](https://palbites.clarkfadel.com)** `Demo`
 Full-stack restaurant management platform with four distinct portals: customer ordering, cashier POS, admin dashboard, and delivery tracking.
 `Next.js` `Supabase` `PostgreSQL` `Prisma`
 
@@ -34,7 +34,7 @@ Full-stack restaurant management platform with four distinct portals: customer o
 Design → Development    I own the full product cycle: Figma prototypes through production deployment.
 Cross-platform          Web (React/Next.js) and mobile (React Native/Expo) from a single codebase mindset.
 Database-first          Schema design, migrations, and query optimization — not just "use an ORM".
-Shipping bias           Both live products above were solo-built and are actively maintained.
+Shipping bias           Inventrixs is live on Google Play; Palbites demonstrates full production architecture.
 ```
 
 ---
