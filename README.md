@@ -27,7 +27,7 @@ Full-stack restaurant management platform with four distinct portals: customer o
 `Next.js` `Supabase` `PostgreSQL` `Prisma`
 
 <details>
-<summary>Demo Access</summary>
+<summary>Demo Access for Palbites</summary>
 
 | Role | URL | Credentials |
 |------|-----|-------------|
@@ -43,10 +43,10 @@ Full-stack restaurant management platform with four distinct portals: customer o
 ## What I Bring
 
 ```
-Design → Development    I own the full product cycle: Figma prototypes through production deployment.
-Cross-platform          Web (React/Next.js) and mobile (React Native/Expo) from a single codebase mindset.
-Database-first          Schema design, migrations, and query optimization — not just "use an ORM".
-Shipping bias           Inventrixs is live on Google Play; Palbites demonstrates full production architecture.
+CS Student (Mapua)      Graduating Computer Science student — strong fundamentals backed by real shipped work.
+Design → Development    Comfortable across the full stack: Figma designs through backend APIs and deployment.
+Cross-platform          Web (React/Next.js) and mobile (React Native/Expo) built and shipped independently.
+Hands-on builder        Inventrixs is live on Google Play; Palbites covers real production architecture end-to-end.
 ```
 
 ---
