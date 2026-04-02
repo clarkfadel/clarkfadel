@@ -42,12 +42,13 @@ Full-stack restaurant management platform with four distinct portals: customer o
 
 ## What I Bring
 
-```
-CS Student (Mapua)      Graduating Computer Science student — strong fundamentals backed by real shipped work.
-Design → Development    Comfortable across the full stack: Figma designs through backend APIs and deployment.
-Cross-platform          Web (React/Next.js) and mobile (React Native/Expo) built and shipped independently.
-Hands-on builder        Inventrixs is live on Google Play; Palbites covers real production architecture end-to-end.
-```
+**Full-cycle ownership** — I take a product from Figma mockup to deployed, working software. Design, frontend, backend, database, and deployment are all in scope.
+
+**Cross-platform by default** — I build for web with React/Next.js and mobile with React Native/Expo. Not a separate skill — same project, same codebase thinking.
+
+**Grounded in CS fundamentals** — Graduating Computer Science student at Mapua University, with coursework that backs up the hands-on work I ship.
+
+**I actually ship** — Inventrixs is live on Google Play with real users. Palbites is a full production-architecture demo covering four distinct portals built solo.
 
 ---
 
