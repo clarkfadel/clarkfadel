@@ -29,6 +29,10 @@ In addition to design and development, I also have experience in digital marketi
 Offline-first inventory & POS mobile app built for small Filipino businesses. Works without internet, syncs when connected.
 `React Native` `Expo` `SQLite` `TypeScript`
 
+**[Skyvia](https://skyviatravel.com)** `Live`
+Philippines-focused online travel agency — flight search, hotel & package booking, custom itineraries, and a full back-office with multi-role dashboards.
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `PayMongo` `TypeScript`
+
 **[Palbites](https://palbites.clarkfadel.com)** `Demo`
 Full-stack restaurant management platform with four distinct portals: customer ordering, cashier POS, admin dashboard, and delivery tracking.
 `Next.js` `Supabase` `PostgreSQL` `Prisma`
